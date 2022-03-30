@@ -1,0 +1,10 @@
+{
+    "complexity": 1,
+    "file": "output2.txt",
+    "hash": "0c41ed25bb6369520df1977a3d9c0552ef6e1fcd2edd1b3c09fd74c326187efc",
+    "hash_last_one": null,
+    "name": "stepik-block1",
+    "nonce": 13,
+    "number": 1,
+    "transactions_mercls_tree": null
+}

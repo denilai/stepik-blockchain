@@ -1,0 +1,9 @@
+{
+    "complexity": 1,
+    "hash": "06353d5e04a5dee39df167cb2aacc10635bc89fe2f09647e428b2b343f5491d6",
+    "hash_last_one": null,
+    "name": "stepik-block1",
+    "nonce": 27,
+    "number": 1,
+    "transactions_mercls_tree": null
+}
